@@ -101,6 +101,7 @@ header{
 
 .logo {
     background: url(assets/images/foto.jpg);
+    background-image: url(assets/images/foto.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
